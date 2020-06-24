@@ -1,3 +1,3 @@
 # symbols_convert
 
-translates text entered in the wrong layout
+translates text entered in the wrong layout Eng > Rus > Eng
