@@ -109,6 +109,3 @@ for i in ${ru[@]}; do
             break
         fi
 done
-
-sleep 3600
-
